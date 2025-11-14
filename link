@@ -42,6 +42,6 @@ printf "${GREEN}✅  THANK YOU FOR USING THIS SCRIPT!${RESET}\n"
 printf "${CYAN}   My First Code ${RESET}\n"
 printf "${YELLOW}   LOOK OUR LINKS ${RESET}\n\n"
 printf "${YELLOW}  
-printf "${YELLOW}  MY WEBSITE : "${GREEN} https://web.xyniqnodes.online/
-printf "${YELLOW}  DISCORD : stevuox_
-printf "${RED}  HOSTING NAME : XYNIQ-HOSTING
+printf "${YELLOW}  MY WEBSITE : "${GREEN} https://web.xyniqnodes.online/ ${RESET}\n\n"
+printf "${YELLOW}  DISCORD : stevuox_ ${RESET}\n\n"
+printf "${RED}  HOSTING NAME : XYNIQ-HOSTING ${RESET}\n\n"
